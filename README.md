@@ -15,7 +15,7 @@ A professional web app built using **Streamlit**, which analyzes real-time airli
 ## 📦 Project Structure
 #How to Run this: 
 Step 1:
-git clone https://github.com/YOUR_USERNAME/airline-demand-analyzer.git
+git clone https://github.com/Kirt10/airline-demand-analyzer.git
 cd airline-demand-analyzer
 
 Step 2:
