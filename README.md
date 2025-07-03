@@ -13,4 +13,19 @@ A professional web app built using **Streamlit**, which analyzes real-time airli
 ---
 
 ## 📦 Project Structure
+#How to Run this: 
+Step 1:
+git clone https://github.com/YOUR_USERNAME/airline-demand-analyzer.git
+cd airline-demand-analyzer
+
+Step 2:
+python -m venv venv
+venv\\Scripts\\activate        # Windows
+source venv/bin/activate 
+
+Step 3:
+pip install -r requirements.txt
+
+Step 4:
+streamlit run app/main.py
 
